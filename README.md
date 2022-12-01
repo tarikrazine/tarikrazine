@@ -16,9 +16,9 @@ I'm passionate about crafting creative web applications and experiences for user
 
 I'm available for freelance projects. 
 
-If you are interested in working with me, or if you just want to say Hi, please reach me at
+If you are interested in working with me, or if you just want to say Hi,
 
-### 📧 Reach me
+### 📧 Please reach me
 
 Email: **tarikrazine.com@gmail.com**
 
