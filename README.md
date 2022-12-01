@@ -1,16 +1,32 @@
-#Hi there 👋, I'm Tarik Razine 
+#Hi there 👋 I'm Tarik Razine
 
-I'm a **Full-Stack Javascript** Developer from Morocco 🇲🇦
+## Full-Stack Javascript Web Developer 🤩 from **📍Morocco 🇲🇦**
 
-With Skills: HTML, CSS, Typescript, Javascript, Node js, GraphQl, TRPC, Tailwindcss, Express.js
+I'm passionate about crafting creative web applications and experiences for users.
 
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for feedbacks and advice
-- 💬 Ask me about anything
-- 📫 How to reach me: tarikrazine.com@gmail.com
-- 🌎 Check out my website: https://tarikrazine.com
+### 💻Skills
+
+- **HTML:** Element markup, Attributes, Forms and Tables 
+- **CSS:** Styling, Responsive design, Animations
+- **Javascript:** ES6, React js, Node js, Express
+- **GraphQl:** Queries, Mutations and Subscriptions
+- **Typescript:** Type Checking, OOP
+- **TailwindCss:** Responsive, maintainable, and scalable
+- **Trpc:**
+
+I'm constantly learning new technologies.
+
+I'm available for freelance projects. 
+
+If you are interested in working with me, or if you just want to say Hi, please reach me at
+
+### 📧 Reach me
+
+Email: **tarikrazine.com@gmail.com**
+
+Website: [https://tarikrazine.com](https://tarikrazine.com)
+
+Connect with me on [Twitter](https://twitter.com/tarik_razine)
 
 Thanks 🙏 for visiting my GitHub Profile 🤩
 
