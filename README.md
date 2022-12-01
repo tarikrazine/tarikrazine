@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tarik Razine
 
-## Full-Stack Javascript Web Developer 🤩 from **Morocco 🇲🇦**
+## Full-Stack Javascript Developer 🤩 from **Morocco 🇲🇦**
 
 I'm passionate about crafting creative web applications and experiences for users.
 
