@@ -14,8 +14,6 @@ I'm passionate about crafting creative web applications and experiences for user
 - **TailwindCss:** Responsive, maintainable, and scalable
 - **Trpc:**
 
-I'm constantly learning new technologies.
-
 I'm available for freelance projects. 
 
 If you are interested in working with me, or if you just want to say Hi, please reach me at
