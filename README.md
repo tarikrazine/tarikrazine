@@ -24,7 +24,7 @@ Email: **tarikrazine.com@gmail.com**
 
 Website: [https://tarikrazine.com](https://tarikrazine.com)
 
-Connect with me on [Twitter](https://twitter.com/tarik_razine)
+Connect with me on [Twitter](https://twitter.com/razine_tarik)
 
 Thanks 🙏 for visiting my GitHub Profile 🤩
 
