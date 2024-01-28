@@ -22,8 +22,6 @@ If you are interested in working with me, or if you just want to say Hi,
 
 🌐 Website: [tarikrazine.com](https://tarikrazine.com)
 
-🐦 Connect with me on [Twitter](https://twitter.com/razine_tarik)
-
 Thanks 🙏 for visiting my GitHub Profile! 🤩
 
 <!---
