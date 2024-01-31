@@ -13,6 +13,7 @@ I'm passionate about crafting creative web applications and experiences for user
 - **Typescript:** Type Checking, OOP
 - **TailwindCSS:** Responsive, maintainable, and scalable
 - **Trpc**
+- **Langchain.js**
 
 If you are interested in working with me, or if you just want to say Hi,
 
