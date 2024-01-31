@@ -6,12 +6,12 @@ I'm passionate about crafting creative web applications and experiences for user
 
 ### 💻 Skills
 
-- **HTML:**
-- **CSS:**
-- **Javascript:**
-- **GraphQL:**
-- **Typescript:**
-- **TailwindCSS:**
+- **HTML**
+- **CSS**
+- **Javascript**
+- **GraphQL**
+- **Typescript**
+- **TailwindCSS**
 - **Trpc**
 - **Langchain.js**
 - **Prisma**
