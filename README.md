@@ -6,14 +6,16 @@ I'm passionate about crafting creative web applications and experiences for user
 
 ### 💻 Skills
 
-- **HTML:** Element markup, Attributes, Forms, and Tables
-- **CSS:** Styling, Responsive design, Animations
-- **Javascript:** ES6, React.js, Node.js, Express
-- **GraphQL:** Queries, Mutations, and Subscriptions
-- **Typescript:** Type Checking, OOP
-- **TailwindCSS:** Responsive, maintainable, and scalable
+- **HTML:**
+- **CSS:**
+- **Javascript:**
+- **GraphQL:**
+- **Typescript:**
+- **TailwindCSS:**
 - **Trpc**
 - **Langchain.js**
+- **Prisma**
+- **Drizzle**
 
 If you are interested in working with me, or if you just want to say Hi,
 
