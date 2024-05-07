@@ -21,7 +21,7 @@ If you are interested in working with me, or if you just want to say Hi,
 
 ### 📧 Please reach me
 
-📩 Email: **tarikrazine.com@gmail.com**
+📩 Email: **contact@tarikrazine.com**
 
 🌐 Website: [tarikrazine.com](https://tarikrazine.com)
 
