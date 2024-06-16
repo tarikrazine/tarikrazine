@@ -17,7 +17,8 @@ I'm a dedicated and innovative Full-Stack JavaScript Developer with a passion fo
 
 #### Back-End Development
 - **Node.js**
-- **GraphQL**
+- **deno**
+- **Bun**
 - **TRPC**
 - **Langchain.js**
 
