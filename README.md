@@ -20,6 +20,10 @@ I'm a dedicated and innovative Full-Stack JavaScript Developer with a passion fo
 - **deno**
 - **Bun**
 - **TRPC**
+- **Express.js**
+- **Nest.js**
+- **Hono.js**
+- **Fastify.js**
 - **Langchain.js**
 
 #### Database Management
