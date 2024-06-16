@@ -14,6 +14,7 @@ I'm passionate about crafting creative web applications and experiences for user
 - **TailwindCSS**
 - **Trpc**
 - **Langchain.js**
+- **Next.js**
 - **Prisma**
 - **Drizzle**
 
