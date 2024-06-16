@@ -43,4 +43,4 @@ I'm always open to new opportunities and collaborations. Whether you have a proj
 - 📧 **Email**: [contact@tarikrazine.com](mailto:contact@tarikrazine.com)
 - 🌐 **Website**: [tarikrazine.com](https://tarikrazine.com)
 
-Thank you for visiting my Git​⬤
+Thank you for visiting my Git​hub
