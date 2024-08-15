@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate and innovative Full-Stack JavaScript Deve
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-FF69B4?style=flat-square&logo=hono&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
 
 #### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
@@ -63,12 +63,3 @@ I'm always open to new opportunities, collaborations, and interesting projects. 
 - 🌐 Website: [tarikrazine.com](https://tarikrazine.com)
 
 Thank you for visiting my GitHub profile. Let's build something amazing together!
-
-### 📬 Connect with Me
-
-I'm always open to new opportunities and collaborations. Whether you have a project in mind or just want to connect, feel free to reach out!
-
-- 📧 **Email**: [contact@tarikrazine.com](mailto:contact@tarikrazine.com)
-- 🌐 **Website**: [tarikrazine.com](https://tarikrazine.com)
-
-Thank you for visiting my Git​hub
