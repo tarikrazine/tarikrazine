@@ -1,49 +1,54 @@
 # Tarik Razine
 
-## CTO at MDA • Full Stack JavaScript Developer 🚀
+## CTO at MDA • Product Engineer • SaaS & AI Systems Builder 🚀
 
 [![Website](https://img.shields.io/badge/Website-tarikrazine.com-blue?style=flat-square&logo=google-chrome)](https://tarikrazine.com)  
 [![Email](https://img.shields.io/badge/Email-contact%40tarikrazine.com-red?style=flat-square&logo=gmail)](mailto:contact@tarikrazine.com)
 
-Hey, I’m Tarik, CTO at MDA and a full stack developer from Morocco focused on building scalable web apps and developer first tools.
+Hey, I’m Tarik, CTO at MDA.
 
-I design systems, lead technical decisions, and ship products.
+I build products that get users, generate revenue, and scale.
 
-## ⚡ What I’m Focused On
+My work sits at the intersection of engineering, product thinking, and growth.
 
-• Building SaaS applications and real world products  
-• Creating reusable boilerplates for faster development  
-• Designing clean architectures (monorepo, multi tenant apps)  
-• Exploring modern runtimes (Node.js, Bun, Deno)  
-• Integrating AI into practical workflows  
+## ⚡ What I Do
 
-## 🧠 Current Work
+• Build SaaS products from idea to production  
+• Design systems using domain driven design (DDD)  
+• Develop AI powered tools and autonomous agents  
+• Think beyond code: acquisition, retention, and growth systems  
 
-• Leading engineering at MDA  
-• Developing a SaaS boilerplate for rapid product launches  
-• Building a hotel booking platform with search and scalability in mind  
-• Experimenting with AI powered tools (automation, content, workflows)  
+## 🧠 Current Focus
+
+• AI agents using Mastra, AI SDK, and workflow automation  
+• Scalable SaaS architectures (multi tenant, monorepo)  
+• Product driven engineering with real user feedback loops  
+
+## 🏗️ Selected Work
+
+• AdMarkAI  
+AI marketing engine generating full campaigns from a single product image  
+
+• MDA Platform  
+Enterprise IT assessment and booking system  
+
+• Taxi Platform  
+Real time booking and fleet management system with healthcare integration  
 
 ## 🛠️ Tech Stack
 
-### Front End
-React • Next.js • Astro • TailwindCSS • TypeScript
+TypeScript • Node.js • Bun • Next.js • Tanstack Start • React Native • Nest.js • Express.js • Hono • tRPC  
+PostgreSQL • Drizzle • Prisma  
 
-### Back End
-Node.js • Hono • Express • Fastify • tRPC
+AI  
+AI SDK • Mastra • LangGraph • OpenAI • n8n  
 
-### Databases
-PostgreSQL • Drizzle ORM • Prisma • SQLite
+## 🧩 How I Think
 
-### Tools and Ecosystem
-Turborepo • Docker • GitHub Actions • Vercel • Cloudflare
-
-## 🏗️ How I Build
-
-• Keep things simple and maintainable  
-• Focus on performance and scalability  
-• Care about developer experience as much as user experience  
-• Ship fast, then improve  
+• Build products, not features  
+• Start simple, scale when needed  
+• Focus on real users and measurable outcomes  
+• Combine engineering with business thinking  
 
 ## 📈 GitHub Stats
 
@@ -55,7 +60,5 @@ Turborepo • Docker • GitHub Actions • Vercel • Cloudflare
 
 ## 🤝 Let’s Connect
 
-I’m open to collaborations, freelance work, or building something interesting together.
-
-🌐 Website: https://tarikrazine.com  
-📧 Email: contact@tarikrazine.com  
+🌐 https://tarikrazine.com  
+📧 contact@tarikrazine.com  
