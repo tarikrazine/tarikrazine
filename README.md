@@ -14,14 +14,27 @@ My work sits at the intersection of engineering, product thinking, and growth.
 ## ⚡ What I Do
 
 • Build SaaS products from idea to production  
+
 • Design systems using domain driven design (DDD)  
+
 • Develop AI powered tools and autonomous agents  
+
+• Build RAG systems for intelligent knowledge retrieval  
+
+• Fine tune AI models for product specific use cases  
+
 • Think beyond code: acquisition, retention, and growth systems  
 
 ## 🧠 Current Focus
 
 • AI agents using Mastra, AI SDK, and workflow automation  
+
+• Retrieval augmented generation (RAG) pipelines  
+
+• Fine tuning and optimizing AI models  
+
 • Scalable SaaS architectures (multi tenant, monorepo)  
+
 • Product driven engineering with real user feedback loops  
 
 ## 🏗️ Selected Work
