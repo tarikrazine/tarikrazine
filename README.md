@@ -1,6 +1,6 @@
 # Tarik Razine
 
-## CTO at MDA • Product Engineer • SaaS & AI Systems Builder 🚀
+## CTO, MDA • Product Engineer • SaaS & AI Systems Builder 🚀
 
 [![Website](https://img.shields.io/badge/Website-tarikrazine.com-blue?style=flat-square&logo=google-chrome)](https://tarikrazine.com)  
 [![Email](https://img.shields.io/badge/Email-contact%40tarikrazine.com-red?style=flat-square&logo=gmail)](mailto:contact@tarikrazine.com)
